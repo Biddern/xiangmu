@@ -1,0 +1,122 @@
+[
+    {
+        "img":"img/list1.jpg",
+        "name" : "65G10U 65吋4K超薄 AI全景智能",
+        "title" : "3GB+64GB大内存 双频WiFi 免遥控远场语音",
+        "price" : "￥4199.00"
+    },
+    {
+        "img":"img/list2.jpg",
+        "name" : "55G10U  55吋4K超薄 AI全景智能",
+        "title" : "3GB+64GB大内存  双频WiFi  免遥控远场语音",
+        "price" : "￥3699.00"
+    },
+    {
+        "img":"img/list3.jpg",
+        "name" : "65A10  65吋4K超高清 超薄金属机身",
+        "title" : "3GB+64GB大内存 全景AI 三星全面屏 远场语音智能",
+        "price" : "￥4399.00"
+    },
+    {
+        "img":"img/list4.jpg",
+        "name" : "55A10 55吋4K超高清 超薄金属机身",
+        "title" : "3GB+64GB大内存 全景AI 三星全面屏 远场语音智能",
+        "price" : "￥3399.00"
+    },
+    {
+        "img":"img/list5.jpg",
+        "name" : "65G7U 65吋4K超薄全面屏",
+        "title" : "32GB大内存 0.75CM超薄全面屏 JBL前置音响",
+        "price" : "￥3799.00"
+    },
+    {
+        "img":"img/list6.jpg",
+        "name" : "55G7U 55吋4K超薄全面屏",
+        "title" : "32GB大内存 0.75CM超薄全面屏 JBL前置音响",
+        "price" : "￥2999.00"
+    },
+    {
+        "img":"img/list7.jpg",
+        "name" : "65G3U 65吋金属机身4K超高清",
+        "title" : "16G大内存   AI人工智能 HIFI   PRO前置音响",
+        "price" : "￥3299.00"
+    },
+    {
+        "img":"img/list8.jpg",
+        "name" : "55G3U 55吋金属机身4K超高清",
+        "title" : "16GB大内存   AI人工智能   HIFI PRO前置音响",
+        "price" : "￥2199.00"
+    },
+    {
+        "img":"img/list9.jpg",
+        "name" : "LED65P7 65吋超薄智能K歌",
+        "title" : "AI人工智能  防蓝光模式  2G+16G",
+        "price" : "￥3199.00"
+    },
+    {
+        "img":"img/list10.jpg",
+        "name" : "LED55P7  55吋超薄智能K歌",
+        "title" : "AI人工智能  防蓝光模式  2G+16G",
+        "price" : "￥2099.00"
+    },
+    {
+        "img":"img/list11.jpg",
+        "name" : "LED50P7  50吋超薄智能K歌",
+        "title" : "AI人工智能   防蓝光模式   2G+16G",
+        "price" : "￥1799.00"
+    },
+    {
+        "img":"img/list12.jpg",
+        "name" : "U55T5  55吋4K智能  2G+32G大内存",
+        "title" : "KKTV  64位36核  易柚7.1",
+        "price" : "￥2199.00"
+    },
+    {
+        "img":"img/list13.jpg",
+        "name" : "LED65D6  65吋4K超高清 国品电视",
+        "title" : "AI人工智能 2G+16G 金属背板 防蓝光模式",
+        "price" : "￥3199.00"
+    },
+    {
+        "img":"img/list14.jpg",
+        "name" : "LED55D6 55吋 4K超高清 国品电视",
+        "title" : "AI人工智能 2G+16G 金属背板 防蓝光模式",
+        "price" : "￥2099.00"
+    },
+    {
+        "img":"img/list15.jpg",
+        "name" : "LED50D6 50吋 4K超高清 国品电视",
+        "title" : "AI人工智能 2G+16G 金属背板 防蓝光模式",
+        "price" : "￥1799.00"
+    },
+    {
+        "img":"img/list16.jpg",
+        "name" : "B65U 65吋巨屏  超薄金属机身",
+        "title" : "人工智能  全民K歌 1.5G+8G大内存",
+        "price" : "￥2899.00"
+    },
+    {
+        "img":"img/list17.jpg",
+        "name" : "U55F1 55吋4K 智能超高清",
+        "title" : "KKTV 36核 8G大内存 腾讯视频 人工智能语音",
+        "price" : "￥1799.00"
+    },
+    {
+        "img":"img/list18.jpg",
+        "name" : "U50F1 50吋4K智能",
+        "title" : "KKTV  超高清人工智能语音36核",
+        "price" : "￥1499.00"
+    },
+    {
+        "img":"img/list19.jpg",
+        "name" : "LED49X8S 49吋无边全面屏 超薄金属机身",
+        "title" : "36核人工智能2.0 前置立体声 4KHDR",
+        "price" : "￥2499.00"
+    },
+    {
+        "img":"img/list20.jpg",
+        "name" : "U55K5 55吋4K 智能HDR²",
+        "title" : "KKTV 64位架构A73CPU 2G+16G大内存",
+        "price" : "￥1799.00"
+    }
+]
